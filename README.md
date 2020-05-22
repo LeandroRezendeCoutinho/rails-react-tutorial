@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails project with a React and Redux front-end
 
-Things you may want to cover:
+- Ruby version 2.7
 
-* Ruby version
+- System dependencies
+  - webpacker 4.0
+  - react-rails 2.6.1
 
-* System dependencies
+#### Tip:
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- run _./bin/webpack-dev-server_ in a separate window while coding to have any changes automatically build and reload the browser.
